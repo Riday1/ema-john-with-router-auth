@@ -42,11 +42,14 @@
     height: 55px;
     border-radius: 5px;
     border: 1px solid #95A0A7;
-    font-size: 17px;
+    font-size: 21px;
     padding-left: 7px;
+    background-color: #e7e9eb;
+
 }
 
 .btn-submit {
+    margin-top: 40px;
     border: none;
     width: 425px;
     height: 55px;
